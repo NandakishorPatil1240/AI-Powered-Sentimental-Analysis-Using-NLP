@@ -12,26 +12,26 @@ The system performs text preprocessing, feature extraction using TF-IDF, and sen
 
 ## 🚀 Features
 
-- Text Cleaning,
-- Tokenization,
-- Stopword Removal,
-- Lemmatization,
-- TF-IDF Vectorization,
-- Machine Learning Classification,
-- Real-time Sentiment Prediction,
-- Streamlit Web Application,
+- Text Cleaning
+- Tokenization
+- Stopword Removal
+- Lemmatization
+- TF-IDF Vectorization
+- Machine Learning Classification
+- Real-time Sentiment Prediction
+- Streamlit Web Application
 - Easy-to-use Interface
 
 
 ## 🛠 Technologies Used
 
-- Python,
-- NLP,
-- Scikit-learn,
-- Pandas,
-- NumPy,
-- NLTK,
-- Streamlit,
+- Python
+- NLP
+- Scikit-learn
+- Pandas
+- NumPy
+- NLTK
+- Streamlit
 - Joblib
 
 
@@ -42,32 +42,32 @@ The dataset contains text reviews and sentiment labels.
 
 ## ⚙️ Workflow
 
-1. Data Collection,
-2. Data Cleaning,
-3. Text Preprocessing,
-4. TF-IDF Feature Extraction,
-5. Model Training,
-6. Model Evaluation,
-7. Save Model,
+1. Data Collection
+2. Data Cleaning
+3. Text Preprocessing
+4. TF-IDF Feature Extraction
+5. Model Training
+6. Model Evaluation
+7. Save Model
 8. Deploy using Streamlit
 
 
 ## 🧠 Machine Learning Algorithms
 
-- Logistic Regression,
-- Naive Bayes,
-- Random Forest,
-- Support Vector Machine,
+- Logistic Regression
+- Naive Bayes
+- Random Forest
+- Support Vector Machine
 
 Best performing model is saved for prediction.
 
 
 ## 📈 Evaluation Metrics
 
-- Accuracy,
-- Precision,
-- Recall,
-- F1-Score,
+- Accuracy
+- Precision
+- Recall
+- F1-Score
 - Confusion Matrix
 
 ## 📌 Example
@@ -83,11 +83,11 @@ Positive 😊
 
 ## 🎯 Future Improvements
 
-- Deep Learning (LSTM),
-- BERT Model,
-- Transformer-based NLP,
-- Multilingual Sentiment Analysis,
-- Voice Sentiment Detection,
+- Deep Learning (LSTM)
+- BERT Model
+- Transformer-based NLP
+- Multilingual Sentiment Analysis
+- Voice Sentiment Detection
 - Emotion Classification
 
 ## 👨‍💻 Author
