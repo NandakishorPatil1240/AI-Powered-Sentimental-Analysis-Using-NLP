@@ -187,7 +187,7 @@ if uploaded_file is not None:
         if st.button("🔮 Classify Sentiment"):
             try:
                 # Load models dynamically
-                model = joblib.load("LR_NLP.pkl")
+                model = joblib.load("LR_NLP model.pkl")
                 vectorizer = joblib.load("tfidf.pkl")
 
                 # Transform raw strings
