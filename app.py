@@ -168,7 +168,7 @@ if uploaded_file is not None:
             col3.metric(label="Logistic Regression (TF-IDF)", value=f"{acc_log:.4f}")
 
             # Export champions to disk state
-            joblib.dump(logistic_model, "LR_NLP.pkl")
+            joblib.dump(logistic_model, "LR_NLP model.pkl")
             joblib.dump(tfidf_vectorizer, "tfidf.pkl")
             st.success(
                 "Best artifacts ('LR_NLP.pkl' & 'tfidf.pkl') saved locally successfully!"
