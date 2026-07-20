@@ -171,7 +171,7 @@ if uploaded_file is not None:
             joblib.dump(logistic_model, "LR_NLP model.pkl")
             joblib.dump(tfidf_vectorizer, "tfidf.pkl")
             st.success(
-                "Best artifacts ('LR_NLP.pkl' & 'tfidf.pkl') saved locally successfully!"
+                "Best artifacts ('LR_NLP model.pkl' & 'tfidf.pkl') saved locally successfully!"
             )
 
     # -------------------------------------------------------------------------
