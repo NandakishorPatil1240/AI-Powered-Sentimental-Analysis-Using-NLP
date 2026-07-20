@@ -2,7 +2,7 @@ import streamlit as st
 import joblib
 
 # Load Model and Vectorizer
-model = joblib.load("LR_NLP.pkl")
+model = joblib.load("LR_NLP model.pkl")
 tfidf = joblib.load("tfidf.pkl")
 
 # Page Configuration
